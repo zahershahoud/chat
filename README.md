@@ -18,15 +18,17 @@ npm start
 
 ## Built With
 
-* Node.Js
-* Express.Js
-* MongoDB
-* Socket.IO
+- Node.Js
+- Express.Js
+- MongoDB
+- Socket.IO
 
 ## Author
+
+\*\*Zaher
 
 **germancutraro**
 
 ## Why
 
-* Practise
+- Practise
